@@ -11,7 +11,8 @@ I inspected 6 CSV files (which can be found in the data folder of this repo), an
 
 ## Data Engineering
 By following how I constructed my ERD, I was able to properly create my tables with the correct data types, primary keys, foreign keys, and added constraints.
-- I imported each CSV file into its corresponding SQL table. To ensure I was able to conduct my data analysis, I imported my 'departments' and 'titles' tables first, as they were the only tables that had no foreign keys. In other words, these tables had no dependencies on other tables. Once these two tables were imported, I successfully imported the remaining 4 tables.
+- I imported each CSV file into its corresponding SQL table.
+- To ensure I was able to conduct my data analysis, I imported my 'departments' and 'titles' tables first, as they were the only tables that had no foreign keys. In other words, these tables had no dependencies on other tables. Once these two tables were imported, I successfully imported the remaining 4 tables.
 - I saved my table schema as a SQL file within the EmployeeSQL folder of this repo. 
 
 ## Data Analysis
