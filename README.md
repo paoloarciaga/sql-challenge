@@ -6,7 +6,7 @@ This repo consists of three deliverables:
 - Data Analysis 
 
 ## Data Modeling
-I inspected 6 CSV files (which can be found in the data folder of this repo), and used QuickDBD to create my Entity Relationship Diagram of the tables. 
+I inspected 6 CSV files (which can be found in the data folder of this repo), and used QuickDBD to create my Entity Relationship Diagram of the tables. After creating a few versions of this ERD, I had a tutor help me change a handful of dependencies on relationships by switching the one to many connection(s) and vice versa. 
 - A copy my ERD is saved as a png file within the EmployeeSQL folder of this repo. 
 
 ## Data Engineering
