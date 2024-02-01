@@ -3,7 +3,6 @@
 This repo consists of three deliverables; Data Modeling, Data Engineering, and Data Analysis. 
 
 ## Data Modeling
----
 I inspected 6 CSV files, and used QuickDBD to create my Entity Relationship Diagram of the tables. 
 
 ## Data Engineering
